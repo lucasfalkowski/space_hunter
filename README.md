@@ -1,7 +1,7 @@
 # Space Hunter: Uma Corrida Espacial
 
-Universidade Federal de Santa Catarina /_
-**Lara Vieira Coelho e Lucas Godoy Falkowski**
+Universidade Federal de Santa Catarina
+> **Lara Vieira Coelho e Lucas Godoy Falkowski**
 
 
 ## Descrição
