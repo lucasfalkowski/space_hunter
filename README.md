@@ -8,7 +8,7 @@ Universidade Federal de Santa Catarina
 Space Hunter: Uma Corrida no Espaço Sideral. A Empresa Aeroespacial LACAS está recrutando destemidos caçadores para uma missão cheia de aventura no espaço sideral cujo objetivo é desvendar mistérios do lixo espacial deixados à deriva. O jogo conta com movimentos controlados pelo teclado, e três fases, além de um quiz para testar seus conhecimentos sobre a história da engenharia aeroespacial. Então, você está preparado para embarcar nessa aventura?
 
 ## Sobre
-O programa foi construído na linguagem de programação C. O jogo foi baseado majoritariamente em matrizes.
+O programa foi construído na linguagem de programação C. O menu do jogo e o quiz foi baseado majoritariamente em estruturas de seleção. Já os níveis foi fundamentado em matrizes. O foguete é movimentado a partir do incremento e decremento das variáveis de posição das matrizes.
 
 ## Requisitos
 
