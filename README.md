@@ -22,4 +22,4 @@ O programa foi construído na linguagem de programação C. O jogo foi baseado m
 
 
 ## Compilação
-O usuário deverá entrar na pasta game pelo terminal (shell) `cd game` e em seguida digitar: s:  `gcc -o bin/space_hunter code/main.c -Wall; bin/./space_hunter`. Ademais, `Ctrl + C` encerra os processos.
+O usuário deverá entrar na pasta game pelo terminal (shell) `cd game` e em seguida digitar: s:  `gcc -o bin/space_hunter code/main.c -Wall; bin/./space_hunter`. Ademais, `Ctrl + C` encerra os processos do jogo.
